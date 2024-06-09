@@ -1,0 +1,7 @@
+C:\Users\Semih\OneDrive\Masaüstü\Proje\AtYarışı2\AtYarışı2\bin\Debug\AtYarışı2.exe.config
+C:\Users\Semih\OneDrive\Masaüstü\Proje\AtYarışı2\AtYarışı2\bin\Debug\AtYarışı2.exe
+C:\Users\Semih\OneDrive\Masaüstü\Proje\AtYarışı2\AtYarışı2\bin\Debug\AtYarışı2.pdb
+C:\Users\Semih\OneDrive\Masaüstü\Proje\AtYarışı2\AtYarışı2\obj\Debug\AtYarışı2.csproj.AssemblyReference.cache
+C:\Users\Semih\OneDrive\Masaüstü\Proje\AtYarışı2\AtYarışı2\obj\Debug\AtYarışı2.csproj.CoreCompileInputs.cache
+C:\Users\Semih\OneDrive\Masaüstü\Proje\AtYarışı2\AtYarışı2\obj\Debug\AtYarışı2.exe
+C:\Users\Semih\OneDrive\Masaüstü\Proje\AtYarışı2\AtYarışı2\obj\Debug\AtYarışı2.pdb
